@@ -8,7 +8,7 @@
  
  - 👯 Colaborei no Projeto [Detecção de Faces com Yolo](https://github.com/FaceDetection-yolo-nas/Face_yolo_nas)
 
-- 👨‍💻 Projetos [https://github.com/Gionauta/Portifolio](https://github.com/Gionauta/Portifolio)
+- 👨‍💻 Projetos [https://github.com/Giovanna-de-Oliveira/Portifolio](https://github.com/Giovanna-de-Oliveira/Portifolio)
 
 - ⚡ Uma curiosidade sobre mim: **Amante da astronomia**
 
@@ -17,8 +17,8 @@
  &nbsp; 
  
 <div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=Gionauta&theme=tokyonight&mode=weekly&locale=pt-br" />
-<img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gionauta&layout=donut&theme=tokyonight&locale=pt-br" />
+<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=Giovanna-de-Oliveira&theme=tokyonight&mode=weekly&locale=pt-br" />
+<img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giovanna-de-Oliveira&layout=donut&theme=tokyonight&locale=pt-br" />
  </div>
  
  &nbsp;
@@ -46,7 +46,6 @@
 #### Aprendendo:
 
 ![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)&nbsp;
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 
 
@@ -61,6 +60,9 @@
 ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
 ![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)&nbsp;
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
+![VirtualBox](https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white)&nbsp;
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 
 &nbsp;
 &nbsp;
